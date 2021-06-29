@@ -8,8 +8,11 @@ This training consits of 2 Levels 10 sessions per level:
 
 And it is under the supervision of Dr.Wafaa Rady, head of Communication and Electronics Engineering at the Canadian International College. <br>
 
-### Assignments Form: [here](https://docs.google.com/spreadsheets/d/1pkUxYffNOJSXtlL2Zw4gNGdwZNA576QdPvAK0Jtz_rY/edit?usp=sharing)
-### Facebook Group: [here](https://www.facebook.com/groups/258077235856387)
+#### Assignments Form: [here](https://docs.google.com/spreadsheets/d/1pkUxYffNOJSXtlL2Zw4gNGdwZNA576QdPvAK0Jtz_rY/edit?usp=sharing)
+#### Facebook Group: [here](https://www.facebook.com/groups/258077235856387)
+#### Whatsapp Group: [here](https://chat.whatsapp.com/FP4yyPvoMBNK45bk20q8aR)
+#### Report Problem: [here](https://docs.google.com/forms/d/e/1FAIpQLSdW0bqZs5KdXLjrx3RkQqqXWuUM1OR5M2hoCZn3KVPDNwHXfA/viewform?usp=sf_link)
+
 
 ## Level 1 Training Content:
 ### Python:
@@ -80,7 +83,8 @@ Once you submitted Assignment 4 [Fill the form here](https://docs.google.com/for
 - Basic Mathematics (arithmetic, trigonometry, etc.).
 - Reorganizing Arrays (reshape, vstack, hstack).
 
-Numpy [Lecture](https://colab.research.google.com/drive/1sISZuSMeSyQslbQ1jUWMuKwOyaeZinqU?usp=sharing) or [here](https://github.com/nouran551/Machine-Learning-Training/blob/main/Numpy_Lecture.ipynb)
+Numpy [Lecture](https://colab.research.google.com/drive/1sISZuSMeSyQslbQ1jUWMuKwOyaeZinqU?usp=sharing) or [here](https://github.com/nouran551/Machine-Learning-Training/blob/main/Numpy_Lecture.ipynb)<br>
+Find the assignment [assignment](https://colab.research.google.com/drive/1PgKzptAlVx_uIB71c1h0B4Prpxn-iCrp?usp=sharing) or [here](https://github.com/nouran551/Machine-Learning-Training/blob/main/Assignment_5.ipynb) <br>
 
 
 
@@ -105,7 +109,8 @@ Numpy [Lecture](https://colab.research.google.com/drive/1sISZuSMeSyQslbQ1jUWMuKw
 - Working with large amounts of data (setting chunksize).
 
 
-Pandas [Lecture](https://colab.research.google.com/drive/1YUv3TGZ1sKmFUwUgWPSFQRKJcX7-i7t1?usp=sharing) or [here](https://github.com/nouran551/Machine-Learning-Training/blob/main/Session6_pandas.ipynb)
+Pandas [Lecture](https://colab.research.google.com/drive/1YUv3TGZ1sKmFUwUgWPSFQRKJcX7-i7t1?usp=sharing) or [here](https://github.com/nouran551/Machine-Learning-Training/blob/main/Session6_pandas.ipynb) <br>
+Find the assignment [assignment](https://colab.research.google.com/drive/1pnX_CPX70aGKaneqJHbW0wCCSM2ET-rF?usp=sharing) or [here](https://github.com/nouran551/Machine-Learning-Training/blob/main/Assignment_6.ipynb) <br>
 <br>
 <br>
 
@@ -120,8 +125,8 @@ Pandas [Lecture](https://colab.research.google.com/drive/1YUv3TGZ1sKmFUwUgWPSFQR
   - Box & Whisker Plot.
 
 
-Matplotlib [Lecture](https://colab.research.google.com/drive/1TrwWRMaOzpd7HZlki0YVoaHKbnaagrC_?usp=sharing) or [here](https://github.com/nouran551/Machine-Learning-Training/blob/main/Session7_Matplotlib.ipynb)
-
+Matplotlib [Lecture](https://colab.research.google.com/drive/1TrwWRMaOzpd7HZlki0YVoaHKbnaagrC_?usp=sharing) or [here](https://github.com/nouran551/Machine-Learning-Training/blob/main/Session7_Matplotlib.ipynb)<br>
+Find the assignment [assignment](https://colab.research.google.com/drive/1ASVTTDnrk06G6GbLRkNhIO6PzCosD-x2?usp=sharing) or [here](https://github.com/nouran551/Machine-Learning-Training/blob/main/Assignment_7.ipynb) <br>
 
 ### Machine Learning:
 
@@ -201,7 +206,7 @@ Push to your github repo, it will be reviewed and feedback will be sent to you s
 
 ## References:
 1. [Starting out with python - Third Edition - Tony Gaddis](https://drive.google.com/file/d/168c1DpQGiR-Ztti_4dGtcaIDmkE7_-Mu/view)
-2. [Python Data Science Handbook Essential Tools for Working with Data](https://drive.google.com/file/d/1tgwDmIt9pYsISds_Zy9CPJeWaZUWwbpE/view?usp=sharing)
+2. [Python Data Science Handbook Essential Tools for Working with Data](https://tanthiamhuat.files.wordpress.com/2018/04/pythondatasciencehandbook.pdf)
 3. [Hands-on Machine Learning with Scikit-Learn & TensorFlow - Aurélien Géron](https://drive.google.com/file/d/1vKKbhljes_gaC8nw7yKD9rCh0xKsMd-W/view)
 
 
